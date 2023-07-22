@@ -6,45 +6,45 @@ const Hero = () => {
   return (
     <div className="flex">
       <div className="container mx-auto mt-10">
-        <span>T</span>
-        <span>h</span>
-        <span>e</span>
-        <span>-</span>
-        <span>U</span>
-        <span>n</span>
-        <span>y</span>
-        <span>i</span>
-        <span>e</span>
-        <span>l</span>
-        <span>d</span>
-        <span>i</span>
-        <span>n</span>
-        <span>g</span>
-        <span>-</span>
-        <span>P</span>
-        <span>a</span>
-        <span>t</span>
-        <span>t</span>
-        <span>h</span>
-        <span>-</span>
-        <span>O</span>
-        <span>f</span>
-        <span>-</span>
-        <span>S</span>
-        <span>U</span>
-        <span>C</span>
-        <span>C</span>
-        <span>E</span>
-        <span>S</span>
-        <span>-----</span>
-        <span>H</span>
-        <span>a</span>
-        <span>r</span>
-        <span>d</span>
-        <span>w</span>
-        <span>o</span>
-        <span>r</span>
-        <span>k</span>
+        <span className="text-black">T</span>
+        <span className="text-black">h</span>
+        <span className="text-black">e</span>
+        <span className="text-black">-</span>
+        <span className="text-black">U</span>
+        <span className="text-black">n</span>
+        <span className="text-black">y</span>
+        <span className="text-black">i</span>
+        <span className="text-black">e</span>
+        <span className="text-black">l</span>
+        <span className="text-black">d</span>
+        <span className="text-black">i</span>
+        <span className="text-black">n</span>
+        <span className="text-black">g</span>
+        <span className="text-black">-</span>
+        <span className="text-black">P</span>
+        <span className="text-black">a</span>
+        <span className="text-black">t</span>
+        <span className="text-black">t</span>
+        <span className="text-black">h</span>
+        <span className="text-black">-</span>
+        <span className="text-black">O</span>
+        <span className="text-black">f</span>
+        <span className="text-black">-</span>
+        <span className="text-black">S</span>
+        <span className="text-black">U</span>
+        <span className="text-black">C</span>
+        <span className="text-black">C</span>
+        <span className="text-black">E</span>
+        <span className="text-black">S</span>
+        <span className="text-black">-----</span>
+        <span className="text-black">H</span>
+        <span className="text-black">a</span>
+        <span className="text-black">r</span>
+        <span className="text-black">d</span>
+        <span className="text-black">w</span>
+        <span className="text-black">o</span>
+        <span className="text-black">r</span>
+        <span className="text-black">k</span>
       </div>
     </div>
   );
