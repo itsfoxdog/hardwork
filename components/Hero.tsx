@@ -4,8 +4,8 @@ import Image from "next/image";
 
 const Hero = () => {
   return (
-    <div className="flex">
-      <div className="container mx-auto mt-10">
+    <div className="flex justify-center">
+      <div className="container mx-auto mt-10 font-extrabold text-4xl self-center">
         <span className="text-black">T</span>
         <span className="text-black">h</span>
         <span className="text-black">e</span>
@@ -35,6 +35,7 @@ const Hero = () => {
         <span className="text-black">C</span>
         <span className="text-black">C</span>
         <span className="text-black">E</span>
+        <span className="text-black">S</span>
         <span className="text-black">S</span>
         <span className="text-black">-----</span>
         <span className="text-black">H</span>
