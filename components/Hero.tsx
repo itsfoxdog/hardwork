@@ -4,8 +4,8 @@ import Image from "next/image";
 
 const Hero = () => {
   return (
-    <div className="flex justify-center">
-      <div className="container mx-auto mt-10 font-extrabold text-4xl self-center">
+    <div className="">
+      <div className="container mx-auto mt-10 font-extrabold text-4xl ml-10 flex justify-center ">
         <span className="text-black">T</span>
         <span className="text-black">h</span>
         <span className="text-black">e</span>
