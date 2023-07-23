@@ -31,13 +31,3 @@ body {
   margin: 0;
   padding: 0;
 }
-
-body {
-  background: linear-gradient(
-    to right,
-    hsl(300, 100%, 19%),
-    hsl(300, 100%, 47%),
-    pink,
-    white
-  );
-}
