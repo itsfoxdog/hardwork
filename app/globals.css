@@ -33,7 +33,7 @@ body {
 }
 
 body {
-  background-image: linear-gradient(
+  background: linear-gradient(
     to right,
     hsl(300, 100%, 19%),
     hsl(300, 100%, 47%),
