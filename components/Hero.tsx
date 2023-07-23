@@ -12,7 +12,7 @@ const Hero = () => {
           {
             <Typewriter
               onInit={(typewriter) => {
-                for (let i = 2; i > 0; i++) {
+                for (let i = 1; i > 0; i++) {
                   typewriter
                     .typeString("GeeksForGeeks")
                     .pauseFor(1000)
