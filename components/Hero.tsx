@@ -12,16 +12,16 @@ const Hero = () => {
           {
             <Typewriter
               onInit={(typewriter) => {
-                for (let i = 1; i > 0; i++) {
-                  typewriter
-                    .typeString("GeeksForGeeks")
-                    .pauseFor(1000)
-                    .deleteAll()
-                    .typeString("Welcomes You")
-                    .pauseFor(1000)
-                    .deleteAll()
-                    .start();
-                }
+                // for (let i = 1; i > 0; i++) {
+                typewriter
+                  .typeString("GeeksForGeeks")
+                  .pauseFor(1000)
+                  .deleteAll()
+                  .typeString("Welcomes You")
+                  .pauseFor(1000)
+                  .deleteAll()
+                  .start();
+                // }
               }}
             />
           }
