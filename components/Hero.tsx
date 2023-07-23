@@ -7,7 +7,7 @@ import react from "react";
 const Hero = () => {
   return (
     <div>
-      <div className="container mx-auto mt-10 font-extrabold text-4xl ml-10 flex justify-center ">
+      <div className="container  font-extrabold text-4xl  flex justify-center ">
         <h1>
           {
             <Typewriter
