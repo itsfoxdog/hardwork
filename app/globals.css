@@ -31,3 +31,7 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.purpleGradient {
+  color: linear-gradient(to right, hsl(300, 50%, 47%) hsl(300, 100%, 47%) pink);
+}
