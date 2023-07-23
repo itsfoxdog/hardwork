@@ -17,8 +17,6 @@ const Hero = () => {
                   .pauseFor(1000)
                   .deleteAll()
                   .typeString("Welcomes You")
-                  .pauseFor(1000)
-                  .deleteAll()
                   .start();
               }}
             />
