@@ -33,5 +33,8 @@ body {
 }
 
 body {
-  color: linear-gradient(to right, hsl(300, 50%, 47%) hsl(300, 100%, 47%) pink);
+  background-image: linear-gradient(
+    to right,
+    hsl(300, 50%, 47%) hsl(300, 100%, 47%) pink
+  );
 }
