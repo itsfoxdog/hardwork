@@ -4,8 +4,10 @@ import React from "react";
 
 export default function Home() {
   return (
-    <main className="overflow-hidden">
-      <Hero />
-    </main>
+    <body className="bg-gradient-to-r from-purple-500 to-pink-500">
+      <main className="overflow-hidden">
+        <Hero />
+      </main>
+    </body>
   );
 }
