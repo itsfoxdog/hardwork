@@ -12,9 +12,9 @@ const Hero = () => {
           {
             <Typewriter
               onInit={(typewriter) => {
-                typewriter.typeString(
-                  "The Unyielding Path to Success: Hard Work"
-                );
+                typewriter
+                  .typeString("The Unyielding Path to Success: Hard Work")
+                  .start();
               }}
             />
           }
