@@ -25,14 +25,13 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
 * {
-  background-color: white;
-  color: black;
+  color: rgb(255, 255, 255);
   margin: 0;
   padding: 0;
 }
-@layer components {
-  body {
-    @apply bg-gradient-to-r from-purple-500 to-pink-500;
-  }
+
+body {
+  @apply bg-gradient-to-r from-purple-500 to-pink-500;
 }
